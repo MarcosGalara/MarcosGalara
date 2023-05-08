@@ -86,3 +86,15 @@ Estoy convencido de que mi dedicación al aprendizaje continuo es clave en mi é
 <a href="https://babeljs.io/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" background-color="white" alt="babel" width="50" height="50" margin-top="100px" /> </a>
 
 <br></br>
+
+<p align="center">
+  <a href="https://github.com/MarcosGalara"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=F-ranco&repo=PI-Franco-Food&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Food App"></a>
+    
+<br></br>
+    
+</p><h2 align="center">Contacto:</h2><p align="left"> 
+  
+<p align="center">
+    <a href="[https://www.linkedin.com/in/MarcosGalara/](https://www.linkedin.com/in/marcos-galar%C3%A1-88b9b4260/)" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
+    <a href="mailto:francooropel00@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+</p>
