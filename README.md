@@ -91,5 +91,5 @@ Estoy convencido de que mi dedicación al aprendizaje continuo es clave en mi é
   
 <p align="center">
     <a href="https://www.linkedin.com/in/marcos-galará-88b9b4260/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
-    <a href="marcos.galara08@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+    <a href="mailto:marcos.galara08@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
