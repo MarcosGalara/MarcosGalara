@@ -38,13 +38,6 @@ Estoy convencido de que mi dedicación al aprendizaje continuo es clave en mi é
 - [ ] Java
 - [ ] Python
 
-¿Cómo contactarme?
-
-
-
-- ✉ marcos.galara08@gmail.com
-- 🐱 [github.com](https://github.com/MarcosGalara)
-
 <br></br>
 
 </p><h2 align="center">Lenguajes y habilidades:</h2><p align="left"> 
